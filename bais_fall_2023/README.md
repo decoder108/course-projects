@@ -1,5 +1,6 @@
-Data Programming in Python
-Instructors: Feiran Xu
+# Data Programming in Python
+
+Instructor: Feiran Xu
 
 Title: A Machine Learning Approach to Predict the Features and Price of Used Cars
 
